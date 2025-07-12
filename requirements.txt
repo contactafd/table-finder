@@ -1,0 +1,6 @@
+flask
+pandas
+requests
+rapidfuzz
+qrcode[pil]
+gunicorn
