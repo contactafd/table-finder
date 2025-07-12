@@ -42,7 +42,7 @@ HTML = """
 <h1>🌸 MARIA LUCIA QUINCEAÑERA 🌸</h1>
 <h2>BIENVENUE / WELCOME / BIENVENIDO</h2>
 <!-- NEW: responsive JPG -->
-<img src="{{ url_for('static', filename='lu15.jpg') }}"
+<img src="{{ url_for('static', filename='lu15.png') }}"
      alt="Event banner" class="banner">
 
 <form action="/lookup">
